@@ -37,4 +37,9 @@ type "dotnet run --project TracePixelReportApp" to run application.
 
 type "dotnet test" to run unit tests.
 
+# List of known issues
+- All suitable unit testing not completed.
+- Code refactoring needed to complete unit tests.
+- Output table breaks formatting depending on results.
+
 Readme latest update: 2022-04-07
